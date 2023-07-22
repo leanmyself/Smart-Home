@@ -1,6 +1,6 @@
 # Smart-Home Automation and Environment Monitoring
 <br>
-Aimed to develop a remote-control mobile application for specific devices and monitor the environmental parameters in the home and its surroundings through Wi-Fi technology as a network infrastructure. Integrated the Arduino Uno to Raspberry Pi using Pyserial. <br><br>
+Aimed to develop a remote-control mobile application for specific devices and monitor the environmental parameters in the home and its surroundings through Wi-Fi technology as a network infrastructure. <br> Integrated the Arduino Uno to Raspberry Pi using Pyserial. <br><br>
 
 ![image](https://github.com/leanmyself/Smart-Home/assets/99194388/89ea4ac1-09be-4ba6-af86-5d9b5a8075ce)
 
