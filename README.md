@@ -16,5 +16,6 @@ Aimed to develop a remote-control mobile application for specific devices and mo
 ## Face Recognition 
 
 > Pre-trained Model
- [20180402-114759]([Facenet](https://github.com/davidsandberg/facenet)https://github.com/davidsandberg/facenet)
+  *20180402-114759.pb*
+   https://github.com/davidsandberg/facenet
 
