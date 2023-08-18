@@ -2,7 +2,8 @@
 <br>
 Aimed to develop a remote-control mobile application for specific devices and monitor the environmental parameters in the home and its surroundings through Wi-Fi technology as a network infrastructure. <br> Integrated the Arduino Uno to Raspberry Pi using Pyserial. <br><br>
 
-![image](https://github.com/leanmyself/Smart-Home/assets/99194388/89ea4ac1-09be-4ba6-af86-5d9b5a8075ce)
+![Image](https://github.com/leanmyself/Smart-Space-Hardware/assets/99194388/a7cafd0e-9aa7-4901-a403-b998d0e538fe)
+
 
 ## Features
 1. Developing a security system integrated with Twilio that will send an SMS notification to the user whenever door lock access is granted or denied.
