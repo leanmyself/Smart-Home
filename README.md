@@ -1,9 +1,9 @@
 # Smart-Home Automation and Environment Monitoring
-<br>
+<a href="https://github.com/leanmyself/Smart-Space-Application">Smart Space Application</a>
+<br><br>
 Aimed to develop a remote-control mobile application for specific devices and monitor the environmental parameters in the home and its surroundings through Wi-Fi technology as a network infrastructure. <br> Integrated the Arduino Uno to Raspberry Pi using Pyserial. <br><br>
 
-![Image](https://github.com/leanmyself/Smart-Space-Hardware/assets/99194388/a7cafd0e-9aa7-4901-a403-b998d0e538fe)
-
+<img src="https://github.com/leanmyself/Smart-Space-Hardware/assets/99194388/a7cafd0e-9aa7-4901-a403-b998d0e538fe" alt="Image" width="500" height="400">
 
 ## Features
 1. Developing a security system integrated with Twilio that will send an SMS notification to the user whenever door lock access is granted or denied.
